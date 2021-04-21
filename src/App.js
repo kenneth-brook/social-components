@@ -1,5 +1,5 @@
 import './App.css';
-import PageFeed from './fb-page-feed/PageFeed'
+import PageFeed from './fb-page-feed/PageFeed';
 
 function App() {
   return (

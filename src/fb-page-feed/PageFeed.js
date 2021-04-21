@@ -1,10 +1,13 @@
-import React from "react";
+import React, { Component} from 'react';
+import { FacebookProvider, Page } from 'react-facebook';
 import "./pageFeed.css";
-
-function PageFeed() {
+ 
+export default class PageFeed extends Component {
+  render() {
     return (
-        <div>page feed</div>
+      <FacebookProvider className="app" appId="/tkbcustomdesign">
+        <Page href="https://www.facebook.com/tkbcustomdesign" tabs="timeline" />
+      </FacebookProvider>    
     );
+  }
 }
-
-export default PageFeed;

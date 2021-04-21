@@ -1,38 +1,28 @@
 .App {
   text-align: center;
+  width: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.fb-page span iframe body ._2p3a {
+  width: 800px !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.fb-page {
+  width: 800px !important;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.fb-page span {
+  width: 800px !important;
 }
 
-.App-link {
-  color: #61dafb;
+.fb-page span iframe{
+  width: 800px !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+._6k_ _4-eo _5dec _1ktf {
+  width: 800px !important;
+}
+
+.fb-page span iframe body * {
+  width: 800px !important;
 }
